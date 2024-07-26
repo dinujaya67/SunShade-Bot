@@ -11,13 +11,6 @@ SunShade Bot is a Telegram bot designed to provide users with real-time weather 
 - Set location-based weather alerts
 - Stay informed about severe weather conditions
 
-## Usage
-1. Start the bot by sending a message to it on Telegram.
-2. Use commands to request weather information:
-   - `/current` - Get the current weather.
-   - `/forecast` - Get the weather forecast for the week.
-   - `/alerts` - Set up weather alerts for your location.
-
 ## Setup
 1. Clone this repository to your local machine.
 2. Install the required dependencies:
